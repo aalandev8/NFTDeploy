@@ -1,0 +1,20 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Animal",
+      "value": "cat"
+    },
+    {
+      "trait_type": "Eye color",
+      "value": "Blue"
+    },
+    {
+        "trait_type": "Breed",
+        "value": "Husky-Sphynx"
+      }
+  ],
+  "description": "A Husky-Sphynx made with midjourney AI",
+  "image": "ipfs://QmS1Ypwbq32HG1eE3snX1bRh2Sxtop7zENzaevXFbME7iu",
+  "name": "Alan Wing"
+}
+
